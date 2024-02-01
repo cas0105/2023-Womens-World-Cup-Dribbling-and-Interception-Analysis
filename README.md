@@ -6,6 +6,6 @@ This repository contains the following:
 
 2023 Women's World Cup Dribble Interception Analysis.ipynb - jupyter notebook file containing python script for analzing the data
 
-Dribbling and Interception Analysis PowerPoint Presentation - a summary of the analysis and insights generated from the python script
+Dribbling and Interception Insights PowerPoint Presentation - a summary of the analysis and insights generated from the python script
 
 Process Documentation_Dribbling and Interception Analysis PDF File - a summary report that walks through the process of creating the insights
