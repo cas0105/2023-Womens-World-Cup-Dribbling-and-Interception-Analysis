@@ -6,7 +6,7 @@ An analysis of the dribbling and interception statistics for the 2023 Women's Wo
 This repository contains the following:
 
 
-*2023 Women's World Cup Dribble Interception Analysis.ipynb - jupyter notebook file containing python script for analzing the data
+*2023 Women's World Cup Dribble Interception Analysis.ipynb - jupyter notebook file containing python script for analyzing the data
 
 
 *Dribbling and Interception Insights PowerPoint Presentation (PPT) - PowerPoint version that summarizes the analysis and insights generated from the python script (19 total slides)
